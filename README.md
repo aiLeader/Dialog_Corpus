@@ -2,6 +2,8 @@
 Datasets for Training Chatbot System
 <br>本项目收集了一些从网络中找到的用于训练中文（英文）聊天机器人的对话语料
 
+### 好的
+http://www.shareditor.com/blogshow?blogId=112
 ### 公开语料
 搜集到的一些数据集如下，点击链接可以进入原始地址
 
